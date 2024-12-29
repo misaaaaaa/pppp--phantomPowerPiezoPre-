@@ -1,6 +1,6 @@
 # Piezo preamp
 
-Clon del proyecto de [DJJules](https://www.instructables.com/Hi-Z-Opamp-Piezo-Buffer/), que aprovecha los +48V del phantom power para alimentar el preamplificador de un micrófono piezoeléctrico. La parte más importante del circuito es el amplificador operacional OPA1642, que por su bajo consumo de corriente es ideal para esta aplicación.
+Clon del proyecto de [DJJules](https://www.instructables.com/Hi-Z-Opamp-Piezo-Buffer/), que aprovecha los +48V del phantom power para alimentar el preamplificador de un micrófono piezoeléctrico. El componente principal del circuito es el amplificador operacional OPA1642, que por su bajo consumo de corriente es ideal para esta aplicación.
 
 ## Esquemático
 
@@ -10,7 +10,6 @@ Clon del proyecto de [DJJules](https://www.instructables.com/Hi-Z-Opamp-Piezo-Bu
 
 ![pcb!](/layout.png "pcb")
 
-Nota: En la primera versión de la pcb (morada), la serigrafía "R3" se encuentra escondida debajo del IC, por lo que no es fácil de encontrar su ubicación. La resistencia va instalada justo al lado de "C3".
 
 ## Lista de Materiales
 
